@@ -2,7 +2,7 @@
 ![Alt text](image.png)
 
 # Gamma
-![Alt text](image-1.png)
+![Alt text](image-1.png?raw=true "Title")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
