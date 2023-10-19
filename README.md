@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Flavanoids
+![Alt text](image.png)
+
+# Gamma
+![Alt text](image-1.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
